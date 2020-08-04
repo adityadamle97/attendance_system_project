@@ -2,7 +2,7 @@
 
 A very simple attendance system project I did for leisure while learning PHP. It works on simple HTML forms with PHP for form handling and an SQL database to store all the data. The form provides registration facilities for new teachers. 
 
-After registering, the teacher logs in and takes the attendance and the data is stored in the database. Reports are also available of the attendance data. An admin profile is available too, where the admin can login and see all the database data and modify or remove it as per their wishes. 
+After registering, the teacher logs in and takes the attendance and the data is stored in the database. Reports are also available of the attendance data. An admin profile is available too, where the admin can login and see all the database data and modify or remove it as per their wishes. To enter the admin profile, directly enter "localhost/adfire/main/bs-education/admin.php" in the URL bar.
 
 Here is the exact workflow of the application:
 1) A new teacher creates an account.
